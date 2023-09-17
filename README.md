@@ -14,3 +14,18 @@ Finally, in 2023, features to control the stepper motor driver were added to the
 ### Library
   - Used library
     * <hd44780.h>
+
+### Schematic & Connection pictures
+  - USB or other all controller
+![USB or other all controller](https://github.com/memisibram/Arduino-Plasma-THC-Mach3/blob/main/THC%20rotary%20Mach3%20-%20USB%20or%20other%20all%20controller/Sketch_bb.png)
+
+  - LPT or Ethernet controller
+![LPT or Ethernet controller](https://github.com/memisibram/Arduino-Plasma-THC-Mach3/blob/main/THC_rotary%20Mach3%20-%20LPT%20or%20Ethernet%20controller/Sketch_ab.png)
+
+
+### Donation
+
+You can donate to either of us
+
+  -  Paypal: phamduyanh@gmail.com or https://www.paypal.me/phamduyanh
+  -  Paypal: memisibram@gmail.com
