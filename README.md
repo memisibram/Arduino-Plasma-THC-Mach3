@@ -22,6 +22,7 @@ Finally, in 2023, features to control the stepper motor driver were added to the
   - LPT or Ethernet controller
 ![LPT or Ethernet controller](https://github.com/memisibram/Arduino-Plasma-THC-Mach3/blob/main/THC_rotary%20Mach3%20-%20LPT%20or%20Ethernet%20controller/Sketch_ab.png)
 
+### License GNU GPL v3.0
 
 ### Donation
 
