@@ -29,4 +29,4 @@ Finally, in 2023, features to control the stepper motor driver were added to the
 You can donate to either of us
 
   -  Paypal: phamduyanh@gmail.com or https://www.paypal.me/phamduyanh
-  -  Paypal: memisibram@gmail.com
+  -  Paypal: memisibram@gmail.com or https://www.paypal.me/memisibram
