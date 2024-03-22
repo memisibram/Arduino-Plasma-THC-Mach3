@@ -11,6 +11,16 @@ Finally, in 2023, features to control the stepper motor driver were added to the
  - Updated by me: https://github.com/memisibram/Arduino-Plasma-THC-Mach3
  - Video: https://www.youtube.com/watch?v=IpVODe6NoKA
 
+### Required components:
+ - Arduino Nano or Uno: https://aliexpress.com/item/1005006344667667.html
+ - 5V 4-Channel Relay Module: https://aliexpress.com/item/1005006064709310.html
+ - Rotary Encoder & Push Button 5Pin: https://aliexpress.com/item/1005001877184897.html
+ - 10K Ohm Potentiometer 3pin: https://aliexpress.com/item/1005006213044445.html
+ - LCD1602+I2C 16x2 Character Display Module: https://aliexpress.com/item/32438126326.html
+ - Any on off switch (optional)
+ - External 5v power supply for relay module.
+ - Power supply for Arduino.
+
 ### Library
   - Used library
     * <hd44780.h>
