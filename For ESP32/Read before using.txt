@@ -1,0 +1,4 @@
+
+These updated sketches for the ESP32 are compiled by the IDE, but since I've used the ESP32 boards I have in other projects, I haven't had a chance to try them on a real board.
+
+The first thing I'll do when I get new boards will be to try this. I'd be grateful if you could try it and let me know the results. Thank you.
