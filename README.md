@@ -1,6 +1,13 @@
 # Arduino_Plasma_THC_Mach3
 Mach3 plasma torch height control with Arduino
 
+### New sketch for ESP32
+I've updated the Mach3 plasma torch height control codes to work with ESP32.
+They've been added to the repository as a new directory called For ESP32.
+
+Note: These updated sketches for the ESP32 are compiled by the IDE, but since I've used the ESP32 boards I have in other projects, I haven't had a chance to try them on a real board.
+The first thing I'll do when I get new boards will be to try this. I'd be grateful if you could try it and let me know the results. Thank you.
+
 ### About the project
 This project was first shared by Phạm Duy Anh in 2016, and some corrections and updates were made by me in 2020.
 Finally, in 2023, features to control the stepper motor driver were added to the project and it took its current form.
