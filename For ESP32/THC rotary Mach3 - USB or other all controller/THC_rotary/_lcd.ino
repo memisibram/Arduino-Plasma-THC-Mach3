@@ -49,7 +49,8 @@ void Setup_LCD() {
   //  lcd.backlight(); //LiquidCrystal_I2C
 
   //lcd.init(); //LiquidCrystal_AIP31068_I2C
-
+  
+  Wire.begin(21, 22); // GPIO 21 (SDA)   //  GPIO 22 (SCL)
   lcd.begin(16, 2);  //hd44780
 
   // create a new character
@@ -419,3 +420,4 @@ void doLCDLoadDefault() {
   exit(0);
   //menu = 11;
 }
+
